@@ -21,7 +21,7 @@
     "hogan-express": "^0.5.2",
     "keycloak-connect": "^15.0.2",
     "node-fetch": "^3.0.0",
-    "nodemon": "^2.0.13",
+    "nodemon": "^2.0.14",
     "passport": "^0.4.1",
     "passport-azure-ad": "^4.3.1",
     "serve-favicon": "^2.5.0",

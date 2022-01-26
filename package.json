@@ -14,7 +14,7 @@
   "dependencies": {
     "connect-sqlite3": "^0.9.12",
     "cookie-parser": "^1.4.6",
-    "dotenv": "^10.0.0",
+    "dotenv": "^14.3.2",
     "express": "^4.17.1",
     "express-session": "^1.17.2",
     "forever": "^4.0.1",

@@ -19,7 +19,7 @@
     "express-session": "^1.17.2",
     "forever": "^4.0.1",
     "hogan-express": "^0.5.2",
-    "node-fetch": "^3.1.1",
+    "node-fetch": "^3.2.2",
     "nodemon": "^2.0.13",
     "passport": "^0.5.2",
     "passport-azure-ad": "^4.3.1",

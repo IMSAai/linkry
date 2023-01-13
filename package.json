@@ -22,7 +22,7 @@
     "node-fetch": "2",
     "nodemon": "^2.0.13",
     "passport": "^0.5.2",
-    "passport-azure-ad": "^4.3.1",
+    "passport-azure-ad": "^4.3.4",
     "serve-favicon": "^2.5.0",
     "sqlite3": "^5.1.4"
   }
